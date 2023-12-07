@@ -34,6 +34,4 @@ The project scaffold includes a package.json file with common dependencies. The 
 3. Install dependencies: `npm install`
 4. Open the `index.html` file in your browser.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
 
