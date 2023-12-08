@@ -7,9 +7,6 @@ Welcome to the Fun Facts App repository! This repository contains the front-end 
 - [Technical Details](#technical-details)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Fun Facts App is a fully functional SPA built using HTML, CSS, and JavaScript. It communicates with a local REST service to handle user authentication, fun facts CRUD operations, and likes functionality.
